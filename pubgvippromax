@@ -8,7 +8,6 @@
 127.0.0.1 ocsp.apple.com
 255.255.255.255	broadcasthost
 ::1             localhost
-127.0.0.1 m.facebook.com
 127.0.0.1 naping.igamecj.com
 127.0.0.1 krping.igamecj.com
 127.0.0.1 filecdn.igamecj.com
